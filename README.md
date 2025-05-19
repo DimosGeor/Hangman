@@ -32,9 +32,7 @@ The program randomly selects a word from a predefined dictionary, and the player
 ### Prerequisites
 - Java JDK installed (version 8 or later)
 
-### Compile
-```bash
-javac *.java
+
 
 
 ## Gameplay Instructions
